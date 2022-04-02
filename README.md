@@ -22,7 +22,7 @@
     <br><br>
     How to setup server logs?
     <br><br>
-    <img src = "https://media.discordapp.net/attachments/950631240317415464/959644150154793000/unknown.pngg"></img>
+    <img src = "https://media.discordapp.net/attachments/950631240317415464/959644150154793000/unknown.png"></img>
     <br>
     </p>
 
