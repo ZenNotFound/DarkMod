@@ -2,8 +2,8 @@
   <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DarkMod&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"></img>
 </center>
 
- <h1 align = "center">OxyBoat</h1>
- <h3 align = "center">A advanced discord music bot</h3>
+ <h1 align = "center">DarkMod</h1>
+ <h3 align = "center">Discord bot to make server management and moderation easy!</h3>
  <h4 align = "center"><a href = "https://darkmodbot.ml">Invite DarkMod</a> ~ <a href = "https://discord.gg/GudQ2PkyGk">Support Server</a></h4>
 
 <p>
