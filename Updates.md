@@ -2,6 +2,8 @@
 <p>
   <ul>
     <li><a href = "README.md">Home</a></li>
+        <li><a href = "https://discord.gg/GudQ2PkyGk">Support</a></li>
+                <li><a href = "https://discord.com/api/oauth2/authorize?client_id=932915599141662840&permissions=8&scope=bot%20applications.commands">Invite DarkMod</a></li>
     </ul>
   </p>
 <h3>Radio</h3>
