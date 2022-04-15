@@ -9,6 +9,7 @@
 <h3>Radio</h3>
 <p>
   <b>So how does radio works?</b><br> So radio works by playing a 247 radio music in a voice channel.<br><br>
+    <b>Command plan</b><br>This command is a premium feature that you can buy at support server!<br><br>
   <b>How can we setup the radio channel?</b> <br>To set this radio channel you can type "??setup-radio" in your server channel and you must in a voice channel.<br><br>
   <b>How can we disable this radio?</b><br>There is no disable command for this you just need is to disconnect the bot from the voice channel.<br><br>
   </p>
