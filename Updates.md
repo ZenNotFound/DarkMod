@@ -2,7 +2,7 @@
 <p>
   <ul>
     <li><a href = "README.md">Home</a></li>
-        <li><a href = "">Support</a>https://discord.gg/GudQ2PkyGk</li>
+    <li><a href = "https://discord.gg/GudQ2PkyGk">Support</a></li>
     </ul>
   </p>
 <h3>Radio</h3>
