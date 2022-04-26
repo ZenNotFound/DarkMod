@@ -8,7 +8,7 @@
   </p>
 <h3>Playlist</h3>
 <p>
-  <b>So how does autoreact works?</b><br>This systems related for musics and saving your music in your custom playlist.<br><br>
+  <b>So how does music playlist works?</b><br>This systems related for musics and saving your music in your custom playlist.<br><br>
   <b>Create a custom playlist.</b> <br>[prefix]pl-create <[name]><br><br>
   <b>Load a custom playlist.</b> <br>[prefix]pl-load <[name]><br><br>
   <b>List of your custom playlist.</b> <br>[prefix]pl-list<br><br>
