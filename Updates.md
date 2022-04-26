@@ -6,18 +6,25 @@
                 <li><a href = "https://discord.com/api/oauth2/authorize?client_id=932915599141662840&permissions=8&scope=bot%20applications.commands">Invite DarkMod</a></li>
     </ul>
   </p>
-<h3>AutoReact</h3>
+<h3>Playlist</h3>
 <p>
-  <b>So how does autoreact works?</b><br> So autoreact works by creating a trigger and reacting to the message with the emoji.<br><br>
-  <b>How can we setup the autoreact?</b> <br>To set this autoreact trigger you can type "??setup-autoreact" in your server.<br><br>
-  <b>How can we remove a trigger?</b><br>There is a command for this to remove "??setup-autoreact remove <[trigger-name]>".<br><br>
+  <b>So how does autoreact works?</b><br>This systems related for musics and saving your music in your custom playlist.<br><br>
+  <b>Create a custom playlist.</b> <br>[prefix]pl-create <[name]><br><br>
+  <b>Load a custom playlist.</b> <br>[prefix]pl-load <[name]><br><br>
+  <b>List of your custom playlist.</b> <br>[prefix]pl-list<br><br>
+  <b>Delete a custom playlist.</b> <br>[prefix]pl-delete <[name]><br><br>
+  <b>Save the music queue to your custom playlist.</b> <br>[prefix]pl-savequeue <[name]>.<br><br>
+  <b>Save the music track to your custom playlist.</b> <br>[prefix]pl-savetrack <[name]>.<br><br>
+    <b>Delete a music track from your custom playlist.</b> <br>[prefix]pl-removetrack <[name]> <[music-number-from-pl]>.<br><br>
   </p>
-  <h3>AutoReply</h3>
+ 
+ <h3>New other commands</h3>
 <p>
-  <b>So how does autoreply works?</b><br>This just same with reactions but it replies a message.<br><br>
-  <b>How can we create a trigger?</b> <br>To create a trigger you just need to type "??setup-autoreply".<br><br>
-  <b>How can we remove a trigger?</b><br>There is a command for this to remove "??setup-autoreply remove <[trigger-name]>".<br><br>
+  <b>Minecraft-stats</b><br>Usage: [prefix]mcstats <[java/bedrock]> <[ip]> <[port]><br><br>
+   <b>Simp-Card</b><br>Usage: [prefix]simpcard <[@user]><br><br>
+    <b>Meme-License</b><br>Usage: [prefix]memelicense [<@user]]<br><br>
   </p>
+
 
   </p>
 
