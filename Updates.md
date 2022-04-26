@@ -22,7 +22,7 @@
 <p>
   <b>Minecraft-stats</b><br>Usage: [prefix]mcstats <[java/bedrock]> <[ip]> <[port]><br><br>
    <b>Simp-Card</b><br>Usage: [prefix]simpcard <[@user]><br><br>
-    <b>Meme-License</b><br>Usage: [prefix]memelicense [<@user]]<br><br>
+    <b>Meme-License</b><br>Usage: [prefix]memelicense [<@user>]<br><br>
   </p>
 
 
