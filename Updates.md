@@ -11,9 +11,9 @@
   <b>So how does message tracker works?</b><br>This systems tracks all your messages in a guild.<br><br>
   <b>Check your sent messages count.</b> <br>[prefix]messages [@user]<br><br>
   <b>Check message leaderboard in your guild.</b> <br>[prefix]message-lb<br><br>
-  <b>Remove a messages to a user.</b> <br>[prefix]remove-msg [<@user] [<amount>]><br><br>
+  <b>Remove a messages to a user.</b> <br>[prefix]remove-msg [<@use>r] [<amount>]><br><br>
   <b>Reset messages in your guild.</b> <br>[prefix]reset-msg-all<br><br>
-  <b>Set a messages of a user.</b> <br>[prefix]set-msg [<@user] [<amount>].<br><br>
+  <b>Set a messages of a user.</b> <br>[prefix]set-msg [<@user>] [<amount>].<br><br>
   </p>
 
 
